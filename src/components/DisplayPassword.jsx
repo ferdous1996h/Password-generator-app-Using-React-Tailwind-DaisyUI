@@ -2,7 +2,7 @@ export default function DisplayPassword({ passWord, copyText }) {
   console.log(passWord);
   return (
     <>
-      <section className="bg-gray-800 p-6 w-[50em] flex justify-between items-center">
+      <section className="bg-gray-800 p-6 w-[40em] flex justify-between items-center">
         <div className="text-5xl font-bold text-gray-500">
           <p className={`${passWord && 'text-white'}`}>
             {passWord ? passWord : 'P4$5W0rD!'}

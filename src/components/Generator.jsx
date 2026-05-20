@@ -11,7 +11,7 @@ export default function Generator({
   const [passLength, setPassLength] = useState(0);
 
   return (
-    <section className="font-mono bg-gray-800 p-6 w-[50em] flex flex-col justify-between">
+    <section className="font-mono bg-gray-800 p-6 w-[40em] flex flex-col justify-between">
       <div className="flex justify-between">
         <p className="text-4xl">Character Length</p>
         <p className="text-4xl text-green-300">{passLength}</p>
