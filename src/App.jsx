@@ -47,7 +47,7 @@ export default function App() {
   }
   const [state, formAction, isPending] = useActionState(handleForm, null);
   return (
-    <main className="scale-75 min-h-dvh text-white flex flex-col gap-6 justify-center items-center">
+    <main className="scale-75 min-h-dvh mt-[-5em] text-white flex flex-col gap-6 justify-center items-center">
       <p className="text-4xl font-bold text-gray-400">Password Generator</p>
       <DisplayPassword passWord={passWord} copyText={copyText} />
       <Generator
