@@ -32,7 +32,7 @@ Users should be able to:
 |![Password_Generated](/src/assets/scrnshoot/password_generated.png)|![password_Copy](/src/assets/scrnshoot/password_Copied.png)|![errorShowing](/src/assets/scrnshoot/showError.png)|
 
 ### link
-* Livesite URl: [AppLive_Site](https://password-generator-app-using-react-tailwind-daisy-7kp6lejx4.vercel.app/)
+* Livesite URl: [AppSite](https://password-generator-app-using-react-rho.vercel.app/)
 ## My process
 
 ### Built with
